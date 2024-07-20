@@ -1,6 +1,6 @@
 # React Product Catalog
 
-[DEMO](https://katsubodmytro.github.io/react_phone-catalog/)<br/>
+[DEMO](https://katsubodmytro.github.io/phone-catalog/)<br/>
 [MOCKUP LIGHT](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)<br/>
 [MOCKUP DARK](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
 
